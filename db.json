@@ -1,0 +1,79 @@
+{
+  "projects": [
+    {
+      "name": "Israel Atualizado",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 4200,
+      "services": [
+        {
+          "name": "PC Gamer",
+          "cost": "4000",
+          "description": "É um pc gamer!!",
+          "id": "13b18c89-4180-47b9-a032-9a7d770ffd0e"
+        },
+        {
+          "name": "Mouse",
+          "cost": "200",
+          "description": "Mouse Gamer",
+          "id": "5a68fb90-1552-4405-8810-04b12924f40d"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "Ponte Alta",
+      "budget": "150000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "Casa",
+      "budget": "6530",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 4
+    },
+    {
+      "name": "Predios",
+      "budget": "652000",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
